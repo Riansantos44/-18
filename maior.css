@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Assasino;
+    src: url(/ancient/Ancient\ Medium.ttf);
+}
+body{
+
+    padding: 0;
+margin: 0;
+box-sizing: border-box;
+height: 120vh;
+background-image: url(https://pixelz.cc/wp-content/uploads/2017/11/assassins-creed-syndicate-uhd-8k-wallpaper.jpg);
+background-attachment: fixed;
+background-size: cover;
+font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 85px;
+    color: rgb(0, 0, 0);
+    font-family: Assasino ;
+}
